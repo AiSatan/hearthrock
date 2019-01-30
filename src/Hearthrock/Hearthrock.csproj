@@ -64,7 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Hearthrock.RedStone">
-      <Version>13.0.3.1</Version>
+      <Version>13.0.9.2</Version>
     </PackageReference>
   </ItemGroup>
   <Import Project="..\Hearthrock.Bot\Hearthrock.Bot.projitems" Label="Shared" />
