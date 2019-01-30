@@ -8,11 +8,11 @@ Hearthstone® Bot Engine https://yangyuan.github.io/hearthrock
 
 This fork use https://www.nuget.org/packages/Hearthrock.RedStone
 
+- Hearthrock 0.6.11r Alpha for 13.0.9.28556. (Jan 30, 2019)
 - Hearthrock 0.6.10r Alpha for 13.0.3.28329. (Jan 8, 2019)
 
 ## News
 
-- Hearthrock 0.6.11 Alpha for 13.0.9.28556. (Jan 30, 2019)
 - Hearthrock 0.6.10 Alpha for 13.0.3.28242. (Dec 16, 2018)
 - Hearthrock 0.6.9 Alpha for 12.4.0.27641. (Nov 25, 2018)
 - Hearthrock 0.6.8 Alpha for 12.2.0.27059. (Oct 15, 2018)
